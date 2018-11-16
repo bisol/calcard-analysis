@@ -1,0 +1,38 @@
+{
+  "generator-jhipster": {
+    "promptValues": {
+      "packageName": "com.bisol.calcard",
+      "nativeLanguage": "pt-br"
+    },
+    "jhipsterVersion": "5.7.0",
+    "applicationType": "microservice",
+    "baseName": "creditAnalysisService",
+    "packageName": "com.bisol.calcard",
+    "packageFolder": "com/bisol/calcard",
+    "serverPort": "8081",
+    "authenticationType": "jwt",
+    "cacheProvider": "no",
+    "websocket": false,
+    "databaseType": "sql",
+    "devDatabaseType": "h2Disk",
+    "prodDatabaseType": "mysql",
+    "searchEngine": false,
+    "messageBroker": "kafka",
+    "serviceDiscoveryType": "eureka",
+    "buildTool": "maven",
+    "enableSwaggerCodegen": false,
+    "jwtSecretKey": "MWIzNWQ0YTFjNzY5YTJkMTYyY2VlMmYzYzVjYjRhZjBlNmVmYmQzNjM2YzM0MmE3OGJmOTQwOTRlMmExMmNiNjJmMmEzZTgwZDA1ZmQ5NmFlNDgxNzkxMTI1NDZhNDUwNTdjMzE0MGRhYzMxZjM3OGJmMDFjYWZhMzA1YzFjNzk=",
+    "testFrameworks": [],
+    "jhiPrefix": "jhi",
+    "otherModules": [],
+    "enableTranslation": true,
+    "clientPackageManager": "npm",
+    "nativeLanguage": "pt-br",
+    "languages": [
+      "pt-br",
+      "en"
+    ],
+    "skipClient": true,
+    "skipUserManagement": true
+  }
+}
